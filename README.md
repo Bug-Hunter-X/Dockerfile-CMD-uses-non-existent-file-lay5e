@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: attempting to use a file that hasn't been created yet.  The `DockerfileBug.dockerfile` shows the incorrect approach, while `DockerfileBugSolution.dockerfile` provides the corrected version.
